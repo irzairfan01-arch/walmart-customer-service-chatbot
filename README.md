@@ -112,8 +112,8 @@ The `CustomerServiceDataSet.csv` contains Walmart-specific customer service Q&A 
 ## 👤 Author
 
 **Irza Ali**  
-BSAI Student | SZABIST  
-GitHub: [@irzairfan01-arch](https://github.com/irzairfan01-arch)
+BSAI Student  
+LinkedIn: [Irza Irfan](https://www.linkedin.com/in/irza-irfan-a50535296)
 
 ---
 
